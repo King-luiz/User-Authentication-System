@@ -92,5 +92,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contributing
 Feel free to fork this repository and submit pull requests to improve the codebase. Suggestions and bug reports are also welcome!
 
-##codedbyluiz
+## codedbyluiz
 
