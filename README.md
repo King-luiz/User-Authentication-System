@@ -40,7 +40,7 @@ This project is a simple PHP-based user authentication system. It includes funct
 1. **Clone the Repository**:
    ```bash
    git clone King-luiz
-   cd <repository-folder>
+   cd User-Authentication-System
    ```
 
 2. **Database Setup**:
